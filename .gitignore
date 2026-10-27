@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+/tmp/
+/latex/*.aux
+/latex/*.log
+/latex/*.out
+/latex/*.toc
+/latex/*.fls
+/latex/*.fdb_latexmk
+/latex/*.synctex.gz
+/latex/main.pdf
+/latex/compile-pass*.txt
+Thumbs.db
+.DS_Store

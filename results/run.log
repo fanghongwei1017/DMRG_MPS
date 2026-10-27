@@ -1,0 +1,54 @@
+L=64 m=  4 sweep= 1 E=-27.898668809754 dE=nan discard=0.000e+00
+L=64 m=  4 sweep= 2 E=-28.000945547335 dE=1.023e-01 discard=1.431e-03
+L=64 m=  4 sweep= 3 E=-28.019476257051 dE=1.853e-02 discard=1.529e-03
+L=64 m=  4 sweep= 4 E=-28.024333095947 dE=4.857e-03 discard=1.549e-03
+L=64 m=  4 sweep= 5 E=-28.025046930146 dE=7.138e-04 discard=1.537e-03
+L=64 m=  4 sweep= 6 E=-28.024264025175 dE=7.829e-04 discard=1.544e-03
+L=64 m=  4 sweep= 7 E=-28.023466345547 dE=7.977e-04 discard=1.534e-03
+L=64 m=  4 sweep= 8 E=-28.022466933765 dE=9.994e-04 discard=1.542e-03
+L=64 m=  4 sweep= 9 E=-28.021183239566 dE=1.284e-03 discard=1.540e-03
+L=64 m=  4 sweep=10 E=-28.019749147809 dE=1.434e-03 discard=1.537e-03
+L=64 m=  4 sweep=11 E=-28.021531858352 dE=1.783e-03 discard=1.541e-03
+L=64 m=  4 sweep=12 E=-28.026161511311 dE=4.630e-03 discard=1.243e-03
+L=64 m=  4 sweep=13 E=-28.027054631413 dE=8.931e-04 discard=1.232e-03
+L=64 m=  4 sweep=14 E=-28.027348926938 dE=2.943e-04 discard=1.232e-03
+L=64 m=  4 sweep=15 E=-28.027459724212 dE=1.108e-04 discard=1.232e-03
+L=64 m=  4 sweep=16 E=-28.027503572540 dE=4.385e-05 discard=1.232e-03
+L=64 m=  4 sweep=17 E=-28.027521274377 dE=1.770e-05 discard=1.232e-03
+L=64 m=  4 sweep=18 E=-28.027528478555 dE=7.204e-06 discard=1.232e-03
+L=64 m=  4 sweep=19 E=-28.027531420110 dE=2.942e-06 discard=1.232e-03
+L=64 m=  4 sweep=20 E=-28.027532622797 dE=1.203e-06 discard=1.232e-03
+L=64 m=  4 sweep=21 E=-28.027533114798 dE=4.920e-07 discard=1.232e-03
+L=64 m=  4 sweep=22 E=-28.027533316113 dE=2.013e-07 discard=1.232e-03
+L=64 m=  4 sweep=23 E=-28.027533398495 dE=8.238e-08 discard=1.232e-03
+L=64 m=  4 sweep=24 E=-28.027533432208 dE=3.371e-08 discard=1.232e-03
+L=64 m=  4 sweep=25 E=-28.027533446004 dE=1.380e-08 discard=1.232e-03
+L=64 m=  4 sweep=26 E=-28.027533451650 dE=5.646e-09 discard=1.232e-03
+L=64 m=  4 sweep=27 E=-28.027533453961 dE=2.311e-09 discard=1.232e-03
+L=64 m=  4 sweep=28 E=-28.027533454907 dE=9.456e-10 discard=1.232e-03
+L=64 m=  4 sweep=29 E=-28.027533455294 dE=3.870e-10 discard=1.232e-03
+L=64 m=  8 sweep= 1 E=-28.166151968714 dE=nan discard=4.235e-05
+L=64 m=  8 sweep= 2 E=-28.166101490944 dE=5.048e-05 discard=6.026e-05
+L=64 m=  8 sweep= 3 E=-28.166098593416 dE=2.898e-06 discard=6.072e-05
+L=64 m=  8 sweep= 4 E=-28.166098531633 dE=6.178e-08 discard=6.073e-05
+L=64 m=  8 sweep= 5 E=-28.166098530295 dE=1.338e-09 discard=6.073e-05
+L=64 m=  8 sweep= 6 E=-28.166098530266 dE=2.937e-11 discard=6.073e-05
+L=64 m=  8 sweep= 7 E=-28.166098530265 dE=6.040e-13 discard=6.073e-05
+L=64 m= 16 sweep= 1 E=-28.174795261550 dE=nan discard=7.852e-06
+L=64 m= 16 sweep= 2 E=-28.174785360123 dE=9.901e-06 discard=1.064e-05
+L=64 m= 16 sweep= 3 E=-28.174784778402 dE=5.817e-07 discard=1.072e-05
+L=64 m= 16 sweep= 4 E=-28.174784764332 dE=1.407e-08 discard=1.073e-05
+L=64 m= 16 sweep= 5 E=-28.174784763994 dE=3.377e-10 discard=1.073e-05
+L=64 m= 16 sweep= 6 E=-28.174784763986 dE=8.082e-12 discard=1.073e-05
+L=64 m= 32 sweep= 1 E=-28.175412022018 dE=nan discard=1.271e-07
+L=64 m= 32 sweep= 2 E=-28.175413241950 dE=1.220e-06 discard=1.609e-07
+L=64 m= 32 sweep= 3 E=-28.175413245024 dE=3.074e-09 discard=1.612e-07
+L=64 m= 32 sweep= 4 E=-28.175413245136 dE=1.120e-10 discard=1.612e-07
+L=64 m= 32 sweep= 5 E=-28.175413245140 dE=3.496e-12 discard=1.612e-07
+L=64 m= 64 sweep= 1 E=-28.175424808675 dE=nan discard=5.760e-10
+L=64 m= 64 sweep= 2 E=-28.175424808395 dE=2.800e-10 discard=6.912e-10
+L=64 m= 64 sweep= 3 E=-28.175424808342 dE=5.303e-11 discard=6.917e-10
+L=64 m=128 sweep= 1 E=-28.175424859647 dE=nan discard=1.201e-12
+L=64 m=128 sweep= 2 E=-28.175424859648 dE=1.165e-12 discard=1.524e-12
+L=64 m=128 sweep= 3 E=-28.175424859648 dE=2.842e-14 discard=1.525e-12
+FINAL {"L": 64, "J": 1, "boundary": "open", "seed": 7, "bonds": [4, 8, 16, 32, 64, 128], "energy_tol": 1e-09, "eig_tol": 1e-11, "max_sweeps": 40, "warm_start": true, "convergence_rule": "At least 3 full sweeps; 2 consecutive |delta E| < energy_tol", "numpy_version": "2.4.4", "scipy_version": "1.18.1", "checks": {"norm": 0.9999999999999964, "energy_from_correlations": -28.175424859648405, "bond_energy_error": 1.1723955140041653e-13, "max_isotropy_error": 7.749606723700397e-09, "max_abs_local_spin": 4.2354528801181845e-11, "total_spin_squared": 6.154403375813189e-12, "max_abs_dot_minus_3zz": 7.658928394271847e-09}, "energies": [{"m": 4, "energy": -28.02753345529354, "energy_per_site": -0.43793021023896156, "delta_energy": 3.8703618088220537e-10, "max_discarded_weight": 0.0012318928931234854, "elapsed_seconds": 17.11116409999977, "sweeps": 29, "converged": true, "actual_max_bond": 4}, {"m": 8, "energy": -28.16609853026545, "energy_per_site": -0.44009528953539767, "delta_energy": 6.039613253960852e-13, "max_discarded_weight": 6.07299394398254e-05, "elapsed_seconds": 3.7177677999998195, "sweeps": 7, "converged": true, "actual_max_bond": 8}, {"m": 16, "energy": -28.174784763985965, "energy_per_site": -0.4402310119372807, "delta_energy": 8.08242361927114e-12, "max_discarded_weight": 1.0726071963407764e-05, "elapsed_seconds": 4.370141800000056, "sweeps": 6, "converged": true, "actual_max_bond": 16}, {"m": 32, "energy": -28.17541324513979, "energy_per_site": -0.4402408319553092, "delta_energy": 3.495870259939693e-12, "max_discarded_weight": 1.6120274191393498e-07, "elapsed_seconds": 6.066759400000592, "sweeps": 5, "converged": true, "actual_max_bond": 32}, {"m": 64, "energy": -28.17542480834235, "energy_per_site": -0.4402410126303492, "delta_energy": 5.303135708345508e-11, "max_discarded_weight": 6.917458984707416e-10, "elapsed_seconds": 14.535411699999713, "sweeps": 3, "converged": true, "actual_max_bond": 64}, {"m": 128, "energy": -28.175424859648288, "energy_per_site": -0.4402410134320045, "delta_energy": 2.842170943040401e-14, "max_discarded_weight": 1.5251902929745148e-12, "elapsed_seconds": 54.944741299999805, "sweeps": 3, "converged": true, "actual_max_bond": 128}]}
